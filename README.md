@@ -8,7 +8,7 @@ The color pool is largely taken from Pantone and the palettes are largely aimed 
 
 ## Palettes Included
 
-sourced via: https://lospec.com/
+Sourced via: https://lospec.com/
 
   Color Graphics Adapter
   Commodore 64
@@ -17,7 +17,7 @@ sourced via: https://lospec.com/
   ZX Spectrum
   Nintendo Entertainment System / NES
 
-sourced via http://www.smspower.org/Development/Palette
+Sourced via http://www.smspower.org/Development/Palette
 
   SG-1000
  
@@ -39,7 +39,3 @@ Godot:          var col_cga_02 Color(0.961, 0.333, 0.333)
 Hex values notes i.e. // FF555555 are available in the included excel file.
 
 For 0-1 RGB rounding was done using the excel function round(), which rounds to the nearest integer, if you are using a language that always rounds down this may cause slight variations. 
-
-
-
-
