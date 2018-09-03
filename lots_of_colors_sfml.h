@@ -3,7 +3,6 @@
 
 // various SFML ready colors/palettes.
 
-// whites and blacks have been removed.
 // top half is RGB ready i.e. sf::Color cga_02(245,85,85)
 // bottom half is HEX ready i.e. sf::Color pan_egret(0x00f3ece0)
 
