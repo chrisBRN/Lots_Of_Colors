@@ -12,12 +12,12 @@ I'd suggest using this as a reference rather than including it in full as it's u
 
 Sourced via: https://lospec.com/
 
-  Color Graphics Adapter
-  Commodore 64
-  MSX / Microsoft 1983
-  Macintosh II
-  ZX Spectrum
-  Nintendo Entertainment System / NES
+  Color Graphics Adapter  
+  Commodore 64  
+  MSX / Microsoft 1983  
+  Macintosh II  
+  ZX Spectrum  
+  Nintendo Entertainment System / NES  
 
 Sourced via http://www.smspower.org/Development/Palette
 
@@ -30,11 +30,11 @@ Pantone colors names are copyright Pantone.
 
 ## Code Examples
 
-SFML rgb:       static const sf::Color cga_02(245,85,85); // FF555555
-SFML hex:       static const sf::Color cga_02(0x00555555); // (245,85,85)
-Game Maker:     col_cga_02 = make_color_rgb(245,85,85);
-Unity:          public Color cga_02 = Color(0.961F, 0.333F, 0.333F);
-Godot:          var col_cga_02 Color(0.961, 0.333, 0.333)
+SFML rgb:       static const sf::Color cga_02(245,85,85); // FF555555  
+SFML hex:       static const sf::Color cga_02(0x00555555); // (245,85,85)  
+Game Maker:     col_cga_02 = make_color_rgb(245,85,85);  
+Unity:          public Color cga_02 = Color(0.961F, 0.333F, 0.333F);  
+Godot:          var col_cga_02 Color(0.961, 0.333, 0.333)  
 
 ## Notes
 
