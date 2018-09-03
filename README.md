@@ -6,6 +6,8 @@ Includes hex values for all colors and names where available (Hex is also suppli
 
 The color pool is largely taken from Pantone and the palettes are largely aimed at fixed color game development. (e.g. Commodore 64, NES).
 
+I'd suggest using this as a reference rather than including it in full as it's unlikely you'll use 3k colors and it will add needless variables.
+
 ## Palettes Included
 
 Sourced via: https://lospec.com/
