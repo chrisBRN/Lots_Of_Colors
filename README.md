@@ -1,6 +1,6 @@
 # Lots of Colors
 
-3000+ RGB colors in code ready formats for SFML (C++), Game Maker (gml), Godot (tscn) &amp; Unity (C#)
+3000+ RGB colors in code ready formats for SFML (C++), SDL (C++), Game Maker (gml), Godot (tscn) &amp; Unity (C#)
 
 Includes hex values for all colors and names where available (Hex is also supplied code ready for SFML).
 
@@ -32,6 +32,7 @@ Pantone colors names are copyright Pantone.
 
 SFML rgb:			static const sf::Color cga_02(245,85,85); // FF555555  
 SFML hex:     static const sf::Color cga_02(0x00555555); // (245,85,85)  
+SDL:          SDL_Color cga_02 = {245, 85, 85};
 Game Maker:   col_cga_02 = make_color_rgb(245,85,85);  
 Unity:        public Color cga_02 = Color(0.961F, 0.333F, 0.333F);  
 Godot:        var col_cga_02 Color(0.961, 0.333, 0.333)  
