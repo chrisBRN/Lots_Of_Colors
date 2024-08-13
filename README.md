@@ -36,6 +36,7 @@ SDL:          SDL_Color cga_02 = {245, 85, 85};
 Game Maker:   col_cga_02 = make_color_rgb(245,85,85);  
 Unity:        public Color cga_02 = Color(0.961F, 0.333F, 0.333F);  
 Godot:        var col_cga_02 Color(0.961, 0.333, 0.333)
+css:          --cga_02: #FF555555
 ```
 
 ## Notes
